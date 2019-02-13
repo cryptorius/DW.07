@@ -1,0 +1,6 @@
+git init
+git add README.md
+git commit -m "actualizado"
+git remote add originhttps://github.com/cryptorius/DW.07.git
+git push -u https://github.com/cryptorius/DW.07.git --all
+
